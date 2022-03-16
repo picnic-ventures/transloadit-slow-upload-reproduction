@@ -1,0 +1,19 @@
+{
+  "name": "transloadit-slow-upload-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picnic-ventures/transloadit-slow-upload-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/picnic-ventures/transloadit-slow-upload-reproduction/issues"
+  },
+  "homepage": "https://github.com/picnic-ventures/transloadit-slow-upload-reproduction#readme",
+  "dependencies": {
+    "transloadit": "3.0.2"
+  }
+}
